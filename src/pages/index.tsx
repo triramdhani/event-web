@@ -4,8 +4,8 @@ import { NextPageWithLayout } from './page'
 const Home: NextPageWithLayout = () => {
   return (
     <>
-      <section className='flex min-w-full justify-center '>
-        <p className='text-2xl px-2'>next js starter by tri</p>
+      <section>
+        <p>next js starter by tri</p>
       </section>
     </>
   )
